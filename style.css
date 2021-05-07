@@ -1,8 +1,10 @@
+
 body{
     text-align:center;
     margin:auto;
     color: aliceblue;
-    background-color: rgb(73, 73, 75);
+    background: linear-gradient(to bottom, #336699 29%, #ffccff 65%);
+    
 }
 h1 {
     font-size: 60px;
@@ -11,7 +13,18 @@ h1 {
 }
 p {
     font-size: 40px;
+    font-style: italic;
 }
 .gitlinks{
-    font-size: 65px
+    font-size: 25px;
+    
+    
 }
+div {
+    padding-top: 50px;
+    background: linear-gradient(to bottom, #336699 12%, #ffccff 65%);
+  }
+  a {
+    color: rgb(121, 81, 101);
+  }
+  
