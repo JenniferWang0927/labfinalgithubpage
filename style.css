@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    margin:auto;
+    color: aliceblue;
+    background-color: rgb(73, 73, 75);
+}
+h1 {
+    font-size: 60px;
+    margin-top: 0;
+    padding-top: 40px;
+}
+p {
+    font-size: 40px;
+}
+.gitlinks{
+    font-size: 65px
+}
